@@ -1,1 +1,1 @@
-# .github
+# Bing's Plugins
