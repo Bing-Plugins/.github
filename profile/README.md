@@ -1,4 +1,4 @@
-## Bing Plugins 👋
+## 👋 Hello from the Bing's Plugins!
 
 Our email: Bing_Yanchi@outlook.com
 <!--
