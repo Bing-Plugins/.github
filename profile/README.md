@@ -1,4 +1,4 @@
-## 👋 Hello from the Bing's Plugins!
+## 嘿，你好 👋
 
 我们的邮箱: Bing_Yanchi@outlook.com
 
