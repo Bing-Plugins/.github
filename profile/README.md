@@ -1,6 +1,8 @@
 ## 👋 Hello from the Bing's Plugins!
 
-Our email: Bing_Yanchi@outlook.com
+我们的邮箱: Bing_Yanchi@outlook.com
+
+大部分仓库为私有内容，所以公开的仓库会非常少。
 <!--
 
 **Here are some ideas to get you started:**
